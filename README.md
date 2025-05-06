@@ -26,34 +26,6 @@ Une calculatrice simple construite avec Laravel 12 — mais conçue avec des sta
 
 ---
 
-# 🧮 Calculatrice Laravel
-
-Une calculatrice simple construite avec Laravel 12 — mais conçue avec des standards de code avancés, une architecture propre, et une extensibilité maximale.
-
----
-
-## 🚀 Fonctionnalités
-
--   **Opérations supportées** : addition, soustraction, multiplication, division
--   **Validation intelligente** (ex : division par zéro interdite)
--   **Historique des calculs** persisté en base de données
--   **Code découpé avec DTOs, Services, Enum, Stratégie**
--   **Interface utilisateur légère avec Blade**
--   **Respect des standards PSR-12 (anciennement PSR-2)**
-
----
-
-## 📦 Stack technique
-
--   Laravel 12
--   PHP 8.2+
--   Eloquent ORM
--   Blade (pas de JS ou CSS avancé)
--   Enums PHP natifs
--   Architecture basée sur des services
-
----
-
 ## 📁 Architecture
 
 ```text
